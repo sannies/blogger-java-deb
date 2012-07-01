@@ -1,0 +1,8 @@
+Package: [[name]]
+Version: [[version]]
+Section: misc
+Priority: low
+Architecture: all
+Description: [[description]]
+Maintainer: "Sebastian Annies" <Sebastian.Annies@googlemail.com>
+Depends: jarwrapper, java2-runtime | java2-runtime-headless
