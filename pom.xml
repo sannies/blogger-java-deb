@@ -7,7 +7,7 @@
     <groupId>com.github.sannies.blogger-java-deb</groupId>
     <artifactId>blogger-java-deb</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Compliment</name>
+    <name>blogger-java-deb</name>
     <description>Just a small showcase.</description>
 
     <build>
